@@ -1,8 +1,15 @@
 ## CONCLUSIONES PROYECTO FINAL TESTING QA MANUAL
 
 ### URL Aplicación Web: http://www.ecosupermercados.com.ar (**)
+![alt text](image.png)
 
-Ecosupermercado es un sitio de para la cadena Eco con la opcion de pedido online.
+
+![alt text](image-2.png)
+
+
+![alt text](image-3.png)
+
+Ecosupermercado es un sitio web perteneciente cadena Eco de supermercados, presenta productos, sucursales con la opcion de pedido online.
 
 En el analisis desarrollado pude observar que no se utilizan apis que ayuden al funcionamiento propiamente dicho del sitio solo se encontraron
 apis que hacen a la estructura de la pagina para aportar estilos y habilitar el uso de whatsapp.
@@ -24,10 +31,10 @@ Se extiende la necesidad de incluir validacion para la seccion de suscribirse qu
 
 La informacion analizada se encuentra en los siguientes documentos:
 
-* INVESTIGACION DE API [clickear aqui](./PARTE-2/Investigacion de API Proyecto Final-ECOSUPERMERCADO.pdf)
-* PRUEBAS DE STRESS (clickear aqui)
-* REPORTE DE BUGS (clickear aqui)
-* REPORTE DE PRUEBAS (clickear aqui)
-* CASOS DE PRUEBAS (clickear aqui)
+* INVESTIGACION DE API [(clickear aqui)](PARTE-2/investigacion_de_API_proyecto_final-ecosupermercado.pdf)
+* PRUEBAS DE STRESS [(clickear aqui)](PARTE-2/pruebas_de_stress-ecosupermercado.pdf)
+* REPORTE DE BUGS [(clickear aqui)](PARTE-2/reporte_de_defectos-ecosupermercado.pdf)
+* REPORTE DE PRUEBAS [(clickear aqui)](PARTE-2/reporte_de_pruebas-ecosupermercado.pdf)
+* CASOS DE PRUEBAS [(clickear aqui)](PARTE-2/casos_de_prueba-SupermercadoEco.xlsx)
 
 #### **el analisis realizado corresponde unicamente a un caso de estudio para curso de QA MANUAL
